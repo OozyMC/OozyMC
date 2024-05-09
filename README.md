@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OozyMC
-- 👀 I’m interested in C++ <----
+- 👀 I’m interested in C++<---
 - 🌱 I’m currently learning | It |
 - 🌍 I'm from CHINA
 - 🚀 I play Minecraft :)
